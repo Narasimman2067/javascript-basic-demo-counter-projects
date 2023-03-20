@@ -1,0 +1,16 @@
+body{
+    background-image:repeating-conic-gradient(orange 30%,white 30%, rgb(138, 50, 50) 30%, rgb(255, 255, 255) 30%,green 50%,rgb(244, 224, 8)) ;
+
+}
+.col-md-6{
+    margin-top: 40%;
+    border: 5px solid black;
+    padding: 10%;
+    background-color: aqua;
+    text-transform: capitalize;
+}
+.col-md-3{
+    margin-right:20px !important;
+  
+   
+}
