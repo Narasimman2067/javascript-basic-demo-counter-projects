@@ -1,0 +1,24 @@
+.maincontainer{
+background-image: linear-gradient(rgb(229, 199, 199),blue,rgb(110, 229, 110));
+height: 100vh;
+font-size: x-large;
+font-feature-settings:"cfar";
+width: 0;
+transition:0.9s;
+
+
+}
+button{
+    margin: 10px !important;
+   border:none;
+ 
+}
+
+li{
+    display: none;
+    list-style-type:none;
+    font-weight: bolder;
+    font-size: 40px;
+    font-family: monospace;
+    color: whitesmoke;
+}

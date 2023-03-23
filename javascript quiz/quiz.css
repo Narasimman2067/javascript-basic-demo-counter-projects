@@ -1,0 +1,25 @@
+body{
+    background-image:repeating-conic-gradient(rgb(22, 2, 2),rgb(225, 60, 60),rgb(20, 20, 219),rgb(223, 223, 98));
+}
+
+.container{
+    margin-top:30%;
+}
+h1{
+    background-color: rgb(18, 18, 231);
+    color: white;
+}
+input,label{
+    margin-top: 10px;
+    text-transform: capitalize;
+
+}
+li{
+    list-style-type: none;
+}
+@media only screen and (min-width:900px){
+    .container{
+        margin-top: 10%;
+        width: 50% !important;
+    }
+}
